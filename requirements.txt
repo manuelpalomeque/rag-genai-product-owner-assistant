@@ -1,0 +1,16 @@
+dotenv
+streamlit
+langgraph
+tavily
+requests
+langchain
+markdownify
+typing
+langchain-chroma
+langchain-groq
+langchain-google-genai
+langchain_community
+langchain_huggingface
+chromadb
+pypdf
+sentence-transformers
