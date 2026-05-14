@@ -222,13 +222,13 @@ project/
 El proyecto incluye un entorno real de Jira Cloud utilizado para pruebas end-to-end de los agentes.
 
 Este entorno permite validar:
+* Creación automática de historias, bugs y tareas
+* Ejecución real de queries JQL
+* Lectura de sprints activos
+* Filtrado por labels
+* Generación de reportes automáticos
+* Interacción real entre el agente y Jira Cloud
 
-Creación automática de historias, bugs y tareas
-Ejecución real de queries JQL
-Lectura de sprints activos
-Filtrado por labels
-Generación de reportes automáticos
-Interacción real entre el agente y Jira Cloud
 ---
 
 # 🛠️ Instalación
