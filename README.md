@@ -97,7 +97,7 @@ Ejemplos:
 ¿Cómo debería priorizar un backlog?
 ¿Qué diferencia hay entre épicas y features?
 ```
-
+![Demo ROMA](https://github.com/manuelpalomeque/rag-genai-product-owner-assistant/blob/main/Recursos/Roma_mentor_scrum.gif?raw=true)
 ---
 
 ## 3. Subagente Jira Cloud
@@ -132,7 +132,7 @@ Ejemplos:
 Muéstrame los issues del sprint actual.
 ¿Qué tickets están en QA hace más de 5 días?
 ```
-
+![Filtrar issues del sprint activo mediante etiquetas y Generar reportes ejecutivos para stakeholders](https://github.com/manuelpalomeque/rag-genai-product-owner-assistant/blob/main/Recursos/filtrar_issues_sprint_generar_reporte.gif?raw=true)
 
 ---
 ## 4. Futuras Integraciones Documentales
