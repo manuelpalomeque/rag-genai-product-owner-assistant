@@ -229,6 +229,10 @@ Este entorno permite validar:
 * Generación de reportes automáticos
 * Interacción real entre el agente y Jira Cloud
 
+![Backlog de Jira Cloud de pruebas](https://raw.githubusercontent.com/manuelpalomeque/rag-genai-product-owner-assistant/refs/heads/main/Recursos/Backlog-Jira-Roma.png)
+
+![Ejemplo de HU creada](https://raw.githubusercontent.com/manuelpalomeque/rag-genai-product-owner-assistant/refs/heads/main/Recursos/Ejemplo-HU-Creada-ROMA.png)
+
 ---
 
 # 🛠️ Instalación
