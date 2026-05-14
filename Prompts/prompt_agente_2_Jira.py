@@ -140,4 +140,8 @@ MENSAJE DEL USUARIO
 {input}
 
 {agent_scratchpad}
+
+
+EJEMPLO DE RESPUESTA PARA CUANDO SE CREA UN ISSUE:
+Perfecto! Ya creé la  la siguiente tarea/Historia/Bug: https://roma-pjonathan.atlassian.net/browse/SCRUM-26
 """
