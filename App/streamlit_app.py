@@ -99,7 +99,7 @@ st.markdown("""
 with st.sidebar:
    
     st.image(
-        "Recursos\ROMA.png",
+        "Recursos/ROMA.png",
         width=250
     )
 
